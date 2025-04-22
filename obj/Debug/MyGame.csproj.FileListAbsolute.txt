@@ -1,0 +1,356 @@
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\asteroid.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fuenteJuegoNaves.ttf
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\inicio.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\bullet.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\enemy.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\littleidea.mp3
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\musica.wav
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\p864\Desktop\Clase 1\bin\Debug\assets\fondo.png
+C:\Users\p864\Desktop\Clase 1\bin\Debug\assets\player.png
+C:\Users\p864\Desktop\Clase 1\bin\Debug\MyGame.exe.config
+C:\Users\p864\Desktop\Clase 1\bin\Debug\MyGame.exe
+C:\Users\p864\Desktop\Clase 1\bin\Debug\MyGame.pdb
+C:\Users\p864\Desktop\Clase 1\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\p864\Desktop\Clase 1\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\p864\Desktop\Clase 1\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\p864\Desktop\Clase 1\obj\Debug\MyGame.exe
+C:\Users\p864\Desktop\Clase 1\obj\Debug\MyGame.pdb
+C:\Users\p864\Desktop\Clase 1\bin\Debug\assets\enemy.png
+C:\Users\p864\Downloads\Clase 2\Clase 2\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\p864\Downloads\Clase 2\Clase 2\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\p864\Downloads\Clase 2\Clase 2\obj\Debug\MyGame.exe
+C:\Users\p864\Downloads\Clase 2\Clase 2\obj\Debug\MyGame.pdb
+C:\Users\p864\Downloads\Clase 2\Clase 2\bin\Debug\assets\enemy.png
+C:\Users\p864\Downloads\Clase 2\Clase 2\bin\Debug\assets\fondo.png
+C:\Users\p864\Downloads\Clase 2\Clase 2\bin\Debug\assets\player.png
+C:\Users\p864\Downloads\Clase 2\Clase 2\bin\Debug\MyGame.exe.config
+C:\Users\p864\Downloads\Clase 2\Clase 2\bin\Debug\MyGame.exe
+C:\Users\p864\Downloads\Clase 2\Clase 2\bin\Debug\MyGame.pdb
+C:\Users\p864\Downloads\Clase 2\Clase 2\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\p864\Downloads\Clase 2\Clase 2\bin\Debug\assets\bullet.png
+C:\Users\p864\Downloads\Clase 3\Clase 3\bin\Debug\assets\bullet.png
+C:\Users\p864\Downloads\Clase 3\Clase 3\bin\Debug\assets\enemy.png
+C:\Users\p864\Downloads\Clase 3\Clase 3\bin\Debug\assets\fondo.png
+C:\Users\p864\Downloads\Clase 3\Clase 3\bin\Debug\assets\player.png
+C:\Users\p864\Downloads\Clase 3\Clase 3\bin\Debug\MyGame.exe.config
+C:\Users\p864\Downloads\Clase 3\Clase 3\bin\Debug\MyGame.exe
+C:\Users\p864\Downloads\Clase 3\Clase 3\bin\Debug\MyGame.pdb
+C:\Users\p864\Downloads\Clase 3\Clase 3\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\p864\Downloads\Clase 3\Clase 3\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\p864\Downloads\Clase 3\Clase 3\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\p864\Downloads\Clase 3\Clase 3\obj\Debug\MyGame.exe
+C:\Users\p864\Downloads\Clase 3\Clase 3\obj\Debug\MyGame.pdb
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\bullet.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\MyGame.exe.config
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\MyGame.exe
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\MyGame.pdb
+C:\Users\Palita\Downloads\Clase 4\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Palita\Downloads\Clase 4\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Palita\Downloads\Clase 4\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\Palita\Downloads\Clase 4\obj\Debug\MyGame.exe
+C:\Users\Palita\Downloads\Clase 4\obj\Debug\MyGame.pdb
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\street.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\player.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Player\Run\Down\0.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Player\Run\Down\1.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Player\Run\Down\2.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Enemies\Police\PoliceD.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Enemies\Police\PoliceUp.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Enemies\RedCar\RedcarD.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Enemies\RedCar\RedcarUp.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Enemies\Taxi\TaxiD.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Enemies\Taxi\TaxiUp.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Enemies\WhiteCar\WhitecarD.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Enemies\WhiteCar\WhitecarUp.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Enemies\Moto\MotoUp.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Enemies\Moto\MotoD.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\MainMenu.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Lose.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Win.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Player\Run\Right\0.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Player\Run\Right\1.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Player\Run\Right\2.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Player\Run\Left\0.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Player\Run\Left\1.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Player\Run\Left\2.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Player\Run\Up\0.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Player\Run\Up\1.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Player\Run\Up\2.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Player\Idle\Down\0.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Player\Idle\Left\0.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Player\Idle\Right\0.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Player\Idle\Up\0.png
+C:\Users\Palita\Downloads\Clase 4\bin\Debug\assets\Font\8bitOperatorPlus-Regular.ttf
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\Moto\MotoD.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\Moto\MotoUp.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\Police\PoliceD.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\Police\PoliceUp.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\RedCar\RedcarD.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\RedCar\RedcarUp.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\Taxi\TaxiD.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\Taxi\TaxiUp.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\WhiteCar\WhitecarD.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\WhiteCar\WhitecarUp.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Lose.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\MainMenu.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\player.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Idle\Down\0.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Idle\Left\0.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Idle\Right\0.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Idle\Up\0.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Down\0.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Down\1.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Down\2.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Left\0.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Left\1.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Left\2.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Right\0.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Right\1.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Right\2.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Up\0.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Up\1.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Up\2.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\street.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Win.png
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\MyGame.exe.config
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\MyGame.exe
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\MyGame.pdb
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\obj\Debug\MyGame.exe
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\obj\Debug\MyGame.pdb
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Font\8bitOperatorPlus-Regular.ttf
+C:\Users\crisn\Downloads\Paradigmas\Clase 4\bin\Debug\assets\pause.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\pause.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\Moto\MotoD.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\Moto\MotoUp.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\Police\PoliceD.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\Police\PoliceUp.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\RedCar\RedcarD.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\RedCar\RedcarUp.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\Taxi\TaxiD.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\Taxi\TaxiUp.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\WhiteCar\WhitecarD.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Enemies\WhiteCar\WhitecarUp.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Lose.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\MainMenu.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\player.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Idle\Down\0.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Idle\Left\0.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Idle\Right\0.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Idle\Up\0.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Down\0.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Down\1.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Down\2.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Left\0.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Left\1.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Left\2.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Right\0.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Right\1.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Right\2.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Up\0.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Up\1.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Player\Run\Up\2.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\street.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Win.png
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\assets\Font\8bitOperatorPlus-Regular.ttf
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\MyGame.exe.config
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\MyGame.exe
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\bin\Debug\MyGame.pdb
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\obj\Debug\MyGame.exe
+C:\Users\Palita\Downloads\Paradigmas\Clase 4\obj\Debug\MyGame.pdb
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\pause.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Enemies\Moto\MotoD.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Enemies\Moto\MotoUp.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Enemies\Police\PoliceD.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Enemies\Police\PoliceUp.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Enemies\RedCar\RedcarD.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Enemies\RedCar\RedcarUp.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Enemies\Taxi\TaxiD.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Enemies\Taxi\TaxiUp.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Enemies\WhiteCar\WhitecarD.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Enemies\WhiteCar\WhitecarUp.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Lose.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\MainMenu.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\player.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Player\Idle\Down\0.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Player\Idle\Left\0.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Player\Idle\Right\0.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Player\Idle\Up\0.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Player\Run\Down\0.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Player\Run\Down\1.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Player\Run\Down\2.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Player\Run\Left\0.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Player\Run\Left\1.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Player\Run\Left\2.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Player\Run\Right\0.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Player\Run\Right\1.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Player\Run\Right\2.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Player\Run\Up\0.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Player\Run\Up\1.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Player\Run\Up\2.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\street.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Win.png
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\assets\Font\8bitOperatorPlus-Regular.ttf
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\MyGame.exe.config
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\MyGame.exe
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\bin\Debug\MyGame.pdb
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\obj\Debug\MyGame.exe
+C:\Users\Pc\OneDrive\Documentos\Colegio\UADE\3 de 1 Desarrollo de Videojuegos\Paradigmas de Programación\TP Paradigmas\obj\Debug\MyGame.pdb
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\pause.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Enemies\Moto\MotoD.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Enemies\Moto\MotoUp.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Enemies\Police\PoliceD.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Enemies\Police\PoliceUp.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Enemies\RedCar\RedcarD.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Enemies\RedCar\RedcarUp.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Enemies\Taxi\TaxiD.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Enemies\Taxi\TaxiUp.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Enemies\WhiteCar\WhitecarD.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Enemies\WhiteCar\WhitecarUp.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Lose.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\MainMenu.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\player.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Player\Idle\Down\0.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Player\Idle\Left\0.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Player\Idle\Right\0.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Player\Idle\Up\0.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Player\Run\Down\0.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Player\Run\Down\1.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Player\Run\Down\2.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Player\Run\Left\0.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Player\Run\Left\1.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Player\Run\Left\2.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Player\Run\Right\0.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Player\Run\Right\1.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Player\Run\Right\2.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Player\Run\Up\0.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Player\Run\Up\1.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Player\Run\Up\2.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\street.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Win.png
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\assets\Font\8bitOperatorPlus-Regular.ttf
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\MyGame.exe.config
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\MyGame.exe
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\bin\Debug\MyGame.pdb
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\obj\Debug\MyGame.exe
+C:\Users\alu864\Downloads\TP Paradigmas 1\TP Paradigmas\obj\Debug\MyGame.pdb
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\pause.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Enemies\Moto\MotoD.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Enemies\Moto\MotoUp.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Enemies\Police\PoliceD.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Enemies\Police\PoliceUp.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Enemies\RedCar\RedcarD.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Enemies\RedCar\RedcarUp.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Enemies\Taxi\TaxiD.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Enemies\Taxi\TaxiUp.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Enemies\WhiteCar\WhitecarD.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Enemies\WhiteCar\WhitecarUp.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Lose.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\MainMenu.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\player.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Player\Idle\Down\0.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Player\Idle\Left\0.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Player\Idle\Right\0.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Player\Idle\Up\0.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Player\Run\Down\0.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Player\Run\Down\1.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Player\Run\Down\2.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Player\Run\Left\0.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Player\Run\Left\1.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Player\Run\Left\2.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Player\Run\Right\0.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Player\Run\Right\1.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Player\Run\Right\2.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Player\Run\Up\0.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Player\Run\Up\1.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Player\Run\Up\2.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\street.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Win.png
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\assets\Font\8bitOperatorPlus-Regular.ttf
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\MyGame.exe.config
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\MyGame.exe
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\bin\Debug\MyGame.pdb
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\obj\Debug\MyGame.exe
+C:\Users\alu864\Documents\GitHub\Paradigmas-de-Programacion\obj\Debug\MyGame.pdb
