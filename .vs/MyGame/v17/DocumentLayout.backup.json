@@ -1,60 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\",
+  "WorkspaceRootPath": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MyGame||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\alu864\\downloads\\tp paradigmas 1\\tp paradigmas\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\alu864\\documents\\github\\paradigmas-de-programacion\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\alu864\\downloads\\tp paradigmas 1\\tp paradigmas\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,47 +63,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyGame",
-              "DocumentMoniker": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\MyGame.csproj",
-              "RelativeDocumentMoniker": "MyGame.csproj",
-              "ToolTip": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\MyGame.csproj",
-              "RelativeToolTip": "MyGame.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-22T22:04:10.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "LevelController.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\LevelController.cs",
+              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\LevelController.cs",
               "RelativeDocumentMoniker": "LevelController.cs",
-              "ToolTip": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\LevelController.cs",
+              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\LevelController.cs",
               "RelativeToolTip": "LevelController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T03:31:59.304Z"
+              "WhenOpened": "2025-04-22T03:31:59.304Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\GameManager.cs",
               "RelativeDocumentMoniker": "GameManager.cs",
-              "ToolTip": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\GameManager.cs",
+              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\GameManager.cs",
               "RelativeToolTip": "GameManager.cs",
               "ViewState": "AgIAAGwAAAAAAAAAAAAmwH0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T04:00:49.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T04:00:49.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Vector2.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\Vector2.cs",
+              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Vector2.cs",
               "RelativeDocumentMoniker": "Vector2.cs",
-              "ToolTip": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\Vector2.cs",
+              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Vector2.cs",
               "RelativeToolTip": "Vector2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,11 +99,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\PlayerController.cs",
               "RelativeDocumentMoniker": "PlayerController.cs",
-              "ToolTip": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\PlayerController.cs",
               "RelativeToolTip": "PlayerController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAswE8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,11 +111,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\Player.cs",
+              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Player.cs",
               "RelativeToolTip": "Player.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAAwK4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -141,11 +123,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Enemy.cs",
               "RelativeDocumentMoniker": "Enemy.cs",
-              "ToolTip": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\Enemy.cs",
+              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Enemy.cs",
               "RelativeToolTip": "Enemy.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAkwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,11 +135,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\Program.cs",
+              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -165,11 +147,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Transform.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\Transform.cs",
+              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Transform.cs",
               "RelativeDocumentMoniker": "Transform.cs",
-              "ToolTip": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\Transform.cs",
+              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Transform.cs",
               "RelativeToolTip": "Transform.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -177,11 +159,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Time.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\Time.cs",
+              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Time.cs",
               "RelativeDocumentMoniker": "Time.cs",
-              "ToolTip": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\Time.cs",
+              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Time.cs",
               "RelativeToolTip": "Time.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -189,11 +171,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "EnemyMovement.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\EnemyMovement.cs",
+              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\EnemyMovement.cs",
               "RelativeDocumentMoniker": "EnemyMovement.cs",
-              "ToolTip": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\EnemyMovement.cs",
+              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\EnemyMovement.cs",
               "RelativeToolTip": "EnemyMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -201,11 +183,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Animation.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\Animation.cs",
+              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Animation.cs",
               "RelativeDocumentMoniker": "Animation.cs",
-              "ToolTip": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\Animation.cs",
+              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Animation.cs",
               "RelativeToolTip": "Animation.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -213,11 +195,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Engine.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\Engine\\Engine.cs",
+              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Engine\\Engine.cs",
               "RelativeDocumentMoniker": "Engine\\Engine.cs",
-              "ToolTip": "C:\\Users\\alu864\\Downloads\\TP Paradigmas 1\\TP Paradigmas\\Engine\\Engine.cs",
+              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Engine\\Engine.cs",
               "RelativeToolTip": "Engine\\Engine.cs",
               "ViewState": "AgIAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
