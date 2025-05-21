@@ -11,7 +11,7 @@ namespace MyGame
     {
         private Image playerImage = Engine.LoadImage("assets/player.png");
 
-        private PlayerController playerController;
+        private IController playerController;
         private Transform transform;
         private Animation runDown;
         private Animation runUp;
