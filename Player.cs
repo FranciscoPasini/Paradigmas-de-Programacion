@@ -26,6 +26,7 @@ namespace MyGame
         private string lastDirection = "Down";
         private int score = 0;
         public int Score => score;
+        public Transform Transform => transform;
 
         private readonly Renderer renderer;
 
