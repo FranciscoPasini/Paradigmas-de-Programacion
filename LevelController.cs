@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace MyGame
 {
     public class LevelController
@@ -14,12 +15,12 @@ namespace MyGame
         private Player2 player2;
 
         private Dictionary<int, bool> laneOccupied = new Dictionary<int, bool>
-    {
-        { 0, false },
-        { 1, false },
-        { 2, false },
-        { 3, false }
-    };
+        {
+            { 0, false },
+            { 1, false },
+            { 2, false },
+            { 3, false }
+        };
 
         private Random random = new Random();
         private int spawnTimer = 0;
@@ -47,8 +48,10 @@ namespace MyGame
             player1.Update();
             player2.Update();
 
-            foreach (BaseEnemy e in enemyList) e.Update();
-
+            foreach (BaseEnemy e in enemyList)
+            {
+                e.Update();
+            }
 
             spawnTimer++;
 
@@ -63,6 +66,7 @@ namespace MyGame
                 if (enemyList[i].IsOffScreen())
                 {
                     laneOccupied[enemyList[i].laneIndex] = false;
+                    EnemyFactory.ReturnEnemy(enemyList[i]);
                     enemyList.RemoveAt(i);
                 }
             }
@@ -71,11 +75,11 @@ namespace MyGame
         private void SpawnRandomEnemy()
         {
             (int x, int dirY)[] lanes = {
-            (200, -1),
-            (325, -1),
-            (460, 1),
-            (600, 1)
-        };
+                (200, -1),
+                (325, -1),
+                (460, 1),
+                (600, 1)
+            };
 
             var availableLanes = new List<int>();
             for (int i = 0; i < lanes.Length; i++)
@@ -91,7 +95,8 @@ namespace MyGame
             int posY = (lane.dirY == -1) ? 700 : -100;
             int type = random.Next(0, 5);
 
-            enemyList.Add(EnemyFactory.CreateEnemy(lane.x, posY, type, laneIndex, lane.dirY));
+            var enemy = EnemyFactory.CreateEnemy(lane.x, posY, type, laneIndex, lane.dirY);
+            enemyList.Add(enemy);
             laneOccupied[laneIndex] = true;
         }
 
@@ -102,15 +107,15 @@ namespace MyGame
             player1.Render();
             player2.Render();
 
-            foreach (BaseEnemy e in enemyList) e.Render();
+            foreach (BaseEnemy e in enemyList)
+            {
+                e.Render();
+            }
 
             Engine.DrawText("Player 1 score: " + GameManager.Instance.GetScore(1), 20, 20, 255, 255, 255, scoreFont);
             Engine.DrawText("Player 2 score: " + GameManager.Instance.GetScore(2), 20, 60, 255, 255, 0, scoreFont);
 
             Engine.Show();
         }
-
     }
-
 }
-

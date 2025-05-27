@@ -1,53 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\",
+  "WorkspaceRootPath": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\pc\\onedrive\\documentos\\colegio\\uade\\3 de 1 desarrollo de videojuegos\\paradigmas de programaci\u00F3n\\paradigmas-de-programacion\\enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\alu864\\documents\\github\\paradigmas-de-programacion\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\alu864\\documents\\github\\paradigmas-de-programacion\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\pc\\onedrive\\documentos\\colegio\\uade\\3 de 1 desarrollo de videojuegos\\paradigmas de programaci\u00F3n\\paradigmas-de-programacion\\genericpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:genericpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\pc\\onedrive\\documentos\\colegio\\uade\\3 de 1 desarrollo de videojuegos\\paradigmas de programaci\u00F3n\\paradigmas-de-programacion\\baseenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:baseenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\pc\\onedrive\\documentos\\colegio\\uade\\3 de 1 desarrollo de videojuegos\\paradigmas de programaci\u00F3n\\paradigmas-de-programacion\\ipoolable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:ipoolable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\pc\\onedrive\\documentos\\colegio\\uade\\3 de 1 desarrollo de videojuegos\\paradigmas de programaci\u00F3n\\paradigmas-de-programacion\\motoenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:motoenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\pc\\onedrive\\documentos\\colegio\\uade\\3 de 1 desarrollo de videojuegos\\paradigmas de programaci\u00F3n\\paradigmas-de-programacion\\taxienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:taxienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\pc\\onedrive\\documentos\\colegio\\uade\\3 de 1 desarrollo de videojuegos\\paradigmas de programaci\u00F3n\\paradigmas-de-programacion\\whitecarenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:whitecarenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\pc\\onedrive\\documentos\\colegio\\uade\\3 de 1 desarrollo de videojuegos\\paradigmas de programaci\u00F3n\\paradigmas-de-programacion\\redcarenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:redcarenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\pc\\onedrive\\documentos\\colegio\\uade\\3 de 1 desarrollo de videojuegos\\paradigmas de programaci\u00F3n\\paradigmas-de-programacion\\policeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:policeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|c:\\users\\pc\\onedrive\\documentos\\colegio\\uade\\3 de 1 desarrollo de videojuegos\\paradigmas de programaci\u00F3n\\paradigmas-de-programacion\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDCD5DC-5145-4C37-ACEA-CE81D939F89E}|MyGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,15 +94,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MotoEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\MotoEnemy.cs",
+              "RelativeDocumentMoniker": "MotoEnemy.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\MotoEnemy.cs",
+              "RelativeToolTip": "MotoEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:58:02.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaxiEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\TaxiEnemy.cs",
+              "RelativeDocumentMoniker": "TaxiEnemy.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\TaxiEnemy.cs",
+              "RelativeToolTip": "TaxiEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:57:49.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WhiteCarEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\WhiteCarEnemy.cs",
+              "RelativeDocumentMoniker": "WhiteCarEnemy.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\WhiteCarEnemy.cs",
+              "RelativeToolTip": "WhiteCarEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:57:42.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RedCarEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\RedCarEnemy.cs",
+              "RelativeDocumentMoniker": "RedCarEnemy.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\RedCarEnemy.cs",
+              "RelativeToolTip": "RedCarEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:57:35.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PoliceEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\PoliceEnemy.cs",
+              "RelativeDocumentMoniker": "PoliceEnemy.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\PoliceEnemy.cs",
+              "RelativeToolTip": "PoliceEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:57:25.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\EnemyFactory.cs",
+              "RelativeDocumentMoniker": "EnemyFactory.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\EnemyFactory.cs",
+              "RelativeToolTip": "EnemyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:56:44.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\BaseEnemy.cs",
+              "RelativeDocumentMoniker": "BaseEnemy.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\BaseEnemy.cs",
+              "RelativeToolTip": "BaseEnemy.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:56:31.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "GenericPool.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\GenericPool.cs",
+              "RelativeDocumentMoniker": "GenericPool.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\GenericPool.cs",
+              "RelativeToolTip": "GenericPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:56:14.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPoolable.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\IPoolable.cs",
+              "RelativeDocumentMoniker": "IPoolable.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\IPoolable.cs",
+              "RelativeToolTip": "IPoolable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:55:41.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "IController.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\IController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\IController.cs",
               "RelativeDocumentMoniker": "IController.cs",
-              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\IController.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\IController.cs",
               "RelativeToolTip": "IController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,50 +228,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "LevelController.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\LevelController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\LevelController.cs",
               "RelativeDocumentMoniker": "LevelController.cs",
-              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\LevelController.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\LevelController.cs",
               "RelativeToolTip": "LevelController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T03:31:59.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\GameManager.cs",
               "RelativeDocumentMoniker": "GameManager.cs",
-              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\GameManager.cs",
               "RelativeToolTip": "GameManager.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAmwH0AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAA4wH0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T04:00:49.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "Vector2.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Vector2.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\Vector2.cs",
               "RelativeDocumentMoniker": "Vector2.cs",
-              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Vector2.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\Vector2.cs",
               "RelativeToolTip": "Vector2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T23:52:25.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T23:52:25.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\PlayerController.cs",
               "RelativeDocumentMoniker": "PlayerController.cs",
-              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\PlayerController.cs",
               "RelativeToolTip": "PlayerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,24 +279,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Player.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\Player.cs",
               "RelativeToolTip": "Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T22:04:59.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T22:04:59.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\Enemy.cs",
               "RelativeDocumentMoniker": "Enemy.cs",
-              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\Enemy.cs",
               "RelativeToolTip": "Enemy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,11 +304,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -165,11 +316,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "Transform.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Transform.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\Transform.cs",
               "RelativeDocumentMoniker": "Transform.cs",
-              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Transform.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\Transform.cs",
               "RelativeToolTip": "Transform.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -177,11 +328,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Time.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Time.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\Time.cs",
               "RelativeDocumentMoniker": "Time.cs",
-              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Time.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\Time.cs",
               "RelativeToolTip": "Time.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -189,27 +340,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "EnemyMovement.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\EnemyMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\EnemyMovement.cs",
               "RelativeDocumentMoniker": "EnemyMovement.cs",
-              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\EnemyMovement.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\EnemyMovement.cs",
               "RelativeToolTip": "EnemyMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:36:11.619Z"
+              "WhenOpened": "2025-04-22T20:36:11.619Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Animation.cs",
-              "DocumentMoniker": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Animation.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\Animation.cs",
               "RelativeDocumentMoniker": "Animation.cs",
-              "ToolTip": "C:\\Users\\alu864\\Documents\\GitHub\\Paradigmas-de-Programacion\\Animation.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Documentos\\Colegio\\UADE\\3 de 1 Desarrollo de Videojuegos\\Paradigmas de Programaci\u00F3n\\Paradigmas-de-Programacion\\Animation.cs",
               "RelativeToolTip": "Animation.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:36:18.953Z"
+              "WhenOpened": "2025-04-22T20:36:18.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 23,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }
