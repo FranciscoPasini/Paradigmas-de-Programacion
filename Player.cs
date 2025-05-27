@@ -27,13 +27,15 @@ namespace MyGame
         private int score = 0;
         public int Score => score;
 
-
+        private readonly Renderer renderer;
 
         public Player(float positionX, float positionY)
         {
             transform = new Transform(new Vector2(positionX, positionY));
             playerController = new PlayerController(transform, 1);
             CreateAnimations();
+
+            renderer = new Renderer(idleDown.CurrentImage, new Vector2(50, 50), transform);
         }
         private void CreateAnimations()
         {
@@ -169,8 +171,9 @@ namespace MyGame
 
         public void Render()
         {
-            Engine.Draw(currentAnimation.CurrentImage, transform.Position.x, transform.Position.y);
+            renderer.SetTexture(currentAnimation.CurrentImage);
 
+            renderer.Draw();
 
         }
     }

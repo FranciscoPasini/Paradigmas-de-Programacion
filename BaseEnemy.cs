@@ -8,30 +8,26 @@ namespace MyGame
 {
     public abstract class BaseEnemy
     {
-        protected Image enemyImage;
+        protected readonly Renderer renderer;
         protected Transform transform;
         protected EnemyMovement movement;
         public int laneIndex;
 
         public Transform Transform => transform;
 
-        public BaseEnemy(float posX, float posY, int speed, int dirY, Image image, int laneIndex)
+        protected BaseEnemy(float posX, float posY, int speed, int dirY,
+                            Image image, int laneIndex)
         {
             transform = new Transform(new Vector2(posX, posY));
             movement = new EnemyMovement(transform, speed, dirY);
-            enemyImage = image;
+            renderer = new Renderer(image, new Vector2(50, 50), transform);
+
             this.laneIndex = laneIndex;
         }
 
-        public virtual void Update()
-        {
-            movement.Update();
-        }
+        public virtual void Update() => movement.Update();
 
-        public virtual void Render()
-        {
-            Engine.Draw(enemyImage, transform.Position.x, transform.Position.y);
-        }
+        public virtual void Render() => renderer.Draw();
 
         public virtual bool IsOffScreen()
         {
@@ -39,3 +35,4 @@ namespace MyGame
         }
     }
 }
+

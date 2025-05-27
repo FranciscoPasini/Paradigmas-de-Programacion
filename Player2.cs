@@ -24,13 +24,16 @@ namespace MyGame
 
         private string lastDirection = "Down";
 
-
+        private readonly Renderer renderer;
 
         public Player2(float positionX, float positionY)
         {
             transform = new Transform(new Vector2(positionX, positionY));
             player2Controller = new Player2Controller(transform);
+
             CreateAnimations();
+
+            renderer = new Renderer(idleDown.CurrentImage, new Vector2(50, 50), transform);
         }
         private void CreateAnimations()
         {
@@ -166,9 +169,9 @@ namespace MyGame
 
         public void Render()
         {
-            Engine.Draw(currentAnimation.CurrentImage, transform.Position.x, transform.Position.y);
+            renderer.SetTexture(currentAnimation.CurrentImage);
 
-
+            renderer.Draw();
         }
     }
 }
