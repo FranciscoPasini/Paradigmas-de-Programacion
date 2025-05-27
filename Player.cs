@@ -24,13 +24,15 @@ namespace MyGame
         private Animation idleRight;
 
         private string lastDirection = "Down";
+        private int score = 0;
+        public int Score => score;
 
 
 
         public Player(float positionX, float positionY)
         {
             transform = new Transform(new Vector2(positionX, positionY));
-            playerController = new PlayerController(transform);
+            playerController = new PlayerController(transform, 1);
             CreateAnimations();
         }
         private void CreateAnimations()

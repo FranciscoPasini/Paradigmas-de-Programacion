@@ -10,11 +10,15 @@ namespace MyGame
     {
         private int speed = 1;
         private Transform tranform;
+        private int playerId;
 
-        public PlayerController(Transform transform)
+        public PlayerController(Transform transform, int id)
         {
             this.tranform = transform;
+            this.playerId = id;
         }
+
+       
 
         public void Update()
         {
@@ -73,7 +77,7 @@ namespace MyGame
             if (tranform.Position.x >= 640)
             {
                 tranform.Position = new Vector2(80, tranform.Position.y);
-                GameManager.Instance.AddPoint(); // suma punto al volver al inicio
+                GameManager.Instance.AddPoint(1); // suma punto al volver al inicio
             }
         }
     }

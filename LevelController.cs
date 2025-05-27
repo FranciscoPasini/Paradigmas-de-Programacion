@@ -104,8 +104,8 @@ namespace MyGame
 
             foreach (BaseEnemy e in enemyList) e.Render();
 
-            Engine.DrawText("Player 1 score: " + GameManager.Instance.GetScore(), 20, 20, 255, 255, 255, scoreFont);
-            Engine.DrawText("Player 2 score: " + GameManager.Instance.GetScore(), 20, 60, 255, 255, 0, scoreFont);
+            Engine.DrawText("Player 1 score: " + GameManager.Instance.GetScore(1), 20, 20, 255, 255, 255, scoreFont);
+            Engine.DrawText("Player 2 score: " + GameManager.Instance.GetScore(2), 20, 60, 255, 255, 0, scoreFont);
 
             Engine.Show();
         }

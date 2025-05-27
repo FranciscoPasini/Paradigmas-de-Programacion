@@ -28,7 +28,8 @@ namespace MyGame
 
         public void ResetGame()
         {
-            score = 0;
+            player1Score = 0;
+            player2Score = 0;
             levelController = new LevelController(); // Reinicia el nivel
             levelController.InitializeLevel();
             ChangeGameStatus(gameStatus.game);
@@ -147,19 +148,25 @@ namespace MyGame
         }
 
 
-        private int score = 0;
-        public void AddPoint()
+        private int player1Score = 0;
+        private int player2Score = 0;
+        public void AddPoint(int playerId)
         {
-            score++;
-            if (score >= 5)
+            if (playerId == 1)
+                player1Score++;
+
+            else if (playerId == 2)
+                player2Score++;
+
+            if (player1Score >= 5 || player2Score >= 5)
             {
                 ChangeGameStatus(gameStatus.win);
             }
         }
 
-        public int GetScore()
+        public int GetScore(int playerId)
         {
-            return score;
+            return playerId == 1 ? player1Score : player2Score;
         }
     }
 }
