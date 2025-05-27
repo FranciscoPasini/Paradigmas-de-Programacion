@@ -149,7 +149,7 @@ namespace MyGame
         {
             for (int i = 0; i < GameManager.Instance.LevelController.EnemyList.Count; i++)
             {
-                Enemy enemy = GameManager.Instance.LevelController.EnemyList[i];
+                BaseEnemy enemy = GameManager.Instance.LevelController.EnemyList[i];
 
                 float DistanceX = Math.Abs((enemy.Transform.Position.x + enemy.Transform.Scale.x / 2) - (transform.Position.x + transform.Scale.x / 2));
                 float DistanceY = Math.Abs((enemy.Transform.Position.y + enemy.Transform.Scale.y / 2) - (transform.Position.y + transform.Scale.y / 2));

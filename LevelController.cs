@@ -8,7 +8,7 @@ namespace MyGame
 {
     public class LevelController
     {
-        private List<Enemy> enemyList = new List<Enemy>();
+        private List<BaseEnemy> enemyList = new List<BaseEnemy>();
         private Image fondo = Engine.LoadImage("assets/street.png");
         private Player player1;
         private Player2 player2;
@@ -23,7 +23,7 @@ namespace MyGame
 
         private Random random = new Random();
         private int spawnTimer = 0;
-        public List<Enemy> EnemyList => enemyList;
+        public List<BaseEnemy> EnemyList => enemyList;
         private Font scoreFont;
 
         public void InitializeLevel()
@@ -47,7 +47,8 @@ namespace MyGame
             player1.Update();
             player2.Update();
 
-            foreach (Enemy e in enemyList) e.Update();
+            foreach (BaseEnemy e in enemyList) e.Update();
+
 
             spawnTimer++;
 
@@ -90,7 +91,7 @@ namespace MyGame
             int posY = (lane.dirY == -1) ? 700 : -100;
             int type = random.Next(0, 5);
 
-            enemyList.Add(new Enemy(lane.x, posY, type, laneIndex));
+            enemyList.Add(EnemyFactory.CreateEnemy(lane.x, posY, type, laneIndex, lane.dirY));
             laneOccupied[laneIndex] = true;
         }
 
@@ -101,7 +102,7 @@ namespace MyGame
             player1.Render();
             player2.Render();
 
-            foreach (Enemy e in enemyList) e.Render();
+            foreach (BaseEnemy e in enemyList) e.Render();
 
             Engine.DrawText("Player 1 score: " + GameManager.Instance.GetScore(), 20, 20, 255, 255, 255, scoreFont);
             Engine.DrawText("Player 2 score: " + GameManager.Instance.GetScore(), 20, 60, 255, 255, 0, scoreFont);
