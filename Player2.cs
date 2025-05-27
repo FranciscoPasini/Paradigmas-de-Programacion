@@ -25,8 +25,6 @@ namespace MyGame
         private string lastDirection = "Down";
 
         private readonly Renderer renderer;
-       
-        public Transform Transform => transform;
 
         public Player2(float positionX, float positionY)
         {
