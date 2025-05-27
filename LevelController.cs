@@ -11,6 +11,7 @@ namespace MyGame
         private List<Enemy> enemyList = new List<Enemy>();
         private Image fondo = Engine.LoadImage("assets/street.png");
         private Player player1;
+        private Player2 player2;
 
         private Dictionary<int, bool> laneOccupied = new Dictionary<int, bool>
     {
@@ -28,12 +29,14 @@ namespace MyGame
         public void InitializeLevel()
         {
             player1 = new Player(100, 300);
-            scoreFont = Engine.LoadFont("assets/Font/8bitOperatorPlus-Regular.ttf",32);
+            player2 = new Player2(100, 500);
+            scoreFont = Engine.LoadFont("assets/Font/8bitOperatorPlus-Regular.ttf", 32);
         }
 
         public void Update()
         {
             player1.Update();
+            player2.Update();
 
             foreach (Enemy e in enemyList) e.Update();
 
@@ -87,6 +90,7 @@ namespace MyGame
             Engine.Clear();
             Engine.Draw(fondo, 0, 0);
             player1.Render();
+            player2.Render();
 
             foreach (Enemy e in enemyList) e.Render();
 
