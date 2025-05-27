@@ -28,9 +28,18 @@ namespace MyGame
 
         public void InitializeLevel()
         {
-            player1 = new Player(100, 300);
-            player2 = new Player2(100, 500);
+            player1 = new Player(50, 200);
+            player1.OnCollision += Player_OnCollision;
+
+            player2 = new Player2(50, 300);
+            player2.OnCollision += Player_OnCollision;
+
             scoreFont = Engine.LoadFont("assets/Font/8bitOperatorPlus-Regular.ttf", 32);
+        }
+
+        private void Player_OnCollision(object sender, EventArgs e)
+        {
+            GameManager.Instance.ChangeGameStatus(gameStatus.lose);
         }
 
         public void Update()
@@ -94,7 +103,8 @@ namespace MyGame
 
             foreach (Enemy e in enemyList) e.Render();
 
-            Engine.DrawText("Puntos: " + GameManager.Instance.GetScore(), 20, 20, 255, 255, 255, scoreFont);
+            Engine.DrawText("Player 1 score: " + GameManager.Instance.GetScore(), 20, 20, 255, 255, 255, scoreFont);
+            Engine.DrawText("Player 2 score: " + GameManager.Instance.GetScore(), 20, 60, 255, 255, 0, scoreFont);
 
             Engine.Show();
         }

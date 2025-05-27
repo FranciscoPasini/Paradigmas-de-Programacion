@@ -87,7 +87,8 @@ namespace MyGame
 
         }
 
-
+        public delegate void CollisionEventHandler(object sender, EventArgs e);
+        public event CollisionEventHandler OnCollision;
 
         public void Update()
         {
@@ -157,7 +158,7 @@ namespace MyGame
 
                 if (DistanceX < sumHalfWidth && DistanceY < sumHalfHeight)
                 {
-                    GameManager.Instance.ChangeGameStatus(gameStatus.lose);
+                    OnCollision?.Invoke(this, EventArgs.Empty);
                 }
             }
         }
