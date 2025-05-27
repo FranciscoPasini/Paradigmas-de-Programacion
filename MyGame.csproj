@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GenericPool.cs" />
+    <Compile Include="ILife.cs" />
     <Compile Include="IPoolable.cs" />
     <Compile Include="Render.cs" />
     <Compile Include="Animation.cs" />
