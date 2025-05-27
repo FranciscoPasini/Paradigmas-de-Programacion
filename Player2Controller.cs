@@ -73,7 +73,7 @@ namespace MyGame
             if (tranform.Position.x >= 640)
             {
                 tranform.Position = new Vector2(80, tranform.Position.y);
-                GameManager.Instance.AddPoint(); // suma punto al volver al inicio
+                GameManager.Instance.AddPoint(2); // suma punto al volver al inicio
             }
         }
     }
