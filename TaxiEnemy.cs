@@ -8,25 +8,10 @@ namespace MyGame
 {
     public class TaxiEnemy : BaseEnemy
     {
-        // Constructor para el pool
-        public TaxiEnemy() : base() { }
-
-        public override void Initialize(float posX, float posY, int speed, int dirY, Image image, int laneIndex)
+        public TaxiEnemy(float x, float y, int speed, int dirY, int lane) : base(x, y, speed, dirY, dirY == 1 ? Engine.LoadImage("assets/Enemies/Taxi/TaxiD.png") : Engine.LoadImage("assets/Enemies/Taxi/TaxiUp.png"), lane)
         {
-            base.Initialize(posX, posY, speed, dirY, image, laneIndex);
-            // Inicialización específica del taxi
+
         }
 
-        public override void Update()
-        {
-            base.Update();
-            // Comportamiento específico del taxi
-        }
-
-        public override void Reset()
-        {
-            base.Reset();
-            // Reset específico del taxi
-        }
     }
 }

@@ -4,30 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace MyGame
 {
     public class RedCarEnemy : BaseEnemy
     {
-        // Constructor para el pool
-        public RedCarEnemy() : base() { }
-
-        public override void Initialize(float posX, float posY, int speed, int dirY, Image image, int laneIndex)
+        public RedCarEnemy(float x, float y, int speed, int dirY, int lane) : base(x, y, speed, dirY, dirY == 1 ? Engine.LoadImage("assets/Enemies/RedCar/RedCarD.png") : Engine.LoadImage("assets/Enemies/RedCar/RedCarUp.png"), lane)
         {
-            base.Initialize(posX, posY, speed, dirY, image, laneIndex);
-            // Inicialización específica del auto rojo
+
         }
 
-        public override void Update()
-        {
-            base.Update();
-            // Comportamiento específico del auto rojo
-        }
-
-        public override void Reset()
-        {
-            base.Reset();
-            // Reset específico del auto rojo
-        }
     }
 }

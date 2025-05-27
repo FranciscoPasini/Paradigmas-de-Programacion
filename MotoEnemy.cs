@@ -8,25 +8,10 @@ namespace MyGame
 {
     public class MotoEnemy : BaseEnemy
     {
-        // Constructor para el pool
-        public MotoEnemy() : base() { }
-
-        public override void Initialize(float posX, float posY, int speed, int dirY, Image image, int laneIndex)
+        public MotoEnemy(float x, float y, int speed, int dirY, int lane) : base(x, y, speed, dirY, dirY == 1 ? Engine.LoadImage("assets/Enemies/Moto/MotoD.png") : Engine.LoadImage("assets/Enemies/Moto/MotoUp.png"), lane)
         {
-            base.Initialize(posX, posY, speed, dirY, image, laneIndex);
-            // Inicialización específica de la moto
+
         }
 
-        public override void Update()
-        {
-            base.Update();
-            // Comportamiento específico de la moto
-        }
-
-        public override void Reset()
-        {
-            base.Reset();
-            // Reset específico de la moto
-        }
     }
 }
