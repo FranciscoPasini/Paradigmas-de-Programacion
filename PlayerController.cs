@@ -6,79 +6,14 @@ using System.Threading.Tasks;
 
 namespace MyGame
 {
-    public class PlayerController : IController
+    public class PlayerController : BasePlayerController
     {
-        private int speed = 1;
-        private Transform tranform;
-        private int playerId;
+        public PlayerController(Transform transform, int playerId)
+            : base(transform, playerId) { }
 
-        public PlayerController(Transform transform, int id)
-        {
-            this.tranform = transform;
-            this.playerId = id;
-        }
-
-       
-
-        public void Update()
-        {
-            MoveUp();
-            MoveDown();
-            MoveLeft();
-            MoveRight();
-        }
-
-        public void MoveLeft()
-        {
-            if (Engine.GetKey(Engine.KEY_A))
-            {
-                tranform.Translate(new Vector2(-1, 0), speed);
-
-                if (tranform.Position.x <= 0)
-                {
-                    tranform.Position = new Vector2(0, tranform.Position.y);
-                }
-            }
-        }
-        public void MoveUp()
-        {
-            if (Engine.GetKey(Engine.KEY_W))
-            {
-                tranform.Translate(new Vector2(0, -1), speed);
-
-                if (tranform.Position.y <= 0)
-                {
-                    tranform.Position = new Vector2(tranform.Position.x, 0);
-                }
-            }
-        }
-
-        public void MoveDown()
-        {
-            if (Engine.GetKey(Engine.KEY_S))
-            {
-                tranform.Translate(new Vector2(0, 1), speed);
-
-                if (tranform.Position.y >= 600)
-                {
-                    tranform.Position = new Vector2(tranform.Position.x, 600);
-                }
-            }
-        }
-
-        public void MoveRight()
-        {
-            if (Engine.GetKey(Engine.KEY_D))
-            {
-                tranform.Translate(new Vector2(1, 0), speed);
-            }
-
-            // Chequeo de colisión con borde derecho 
-            if (tranform.Position.x >= 640)
-            {
-                tranform.Position = new Vector2(80, tranform.Position.y);
-                GameManager.Instance.AddPoint(1); // suma punto al volver al inicio
-            }
-        }
+        protected override int GetKeyUp() => Engine.KEY_W;
+        protected override int GetKeyDown() => Engine.KEY_S;
+        protected override int GetKeyLeft() => Engine.KEY_A;
+        protected override int GetKeyRight() => Engine.KEY_D;
     }
 }

@@ -7,40 +7,16 @@ using System.Threading.Tasks;
 
 namespace MyGame
 {
-    public class Player2 : ILife
-    {
-        private readonly Vector2 startPosition;    // <--- posición de respawn
-        private IController player2Controller;
-        private Transform transform;
-
-        private Animation runDown;
-        private Animation runUp;
-        private Animation runLeft;
-        private Animation runRight;
-        private Animation currentAnimation;
-        private Animation idleDown;
-        private Animation idleUp;
-        private Animation idleLeft;
-        private Animation idleRight;
-
-        private string lastDirection = "Down";
-        private readonly Renderer renderer;
-
-        // ILife
-        private int lives = 3;
-        public int Lives => lives;
-        public event EventHandler OnDeath;
-
-        public Player2(float positionX, float positionY)
+    public class Player2 : BasePlayer
+    {  
+        public Player2(float positionX, float positionY) : base(positionX, positionY)
         {
-            startPosition = new Vector2(positionX, positionY);  // <--- grabamos la posición inicial
-            transform = new Transform(new Vector2(positionX, positionY));
-            player2Controller = new Player2Controller(transform);
+            playerController = new Player2Controller(transform); // Control específico
             CreateAnimations();
-            renderer = new Renderer(idleDown.CurrentImage, new Vector2(50, 50), transform);
+            renderer.SetTexture(idleDown.CurrentImage);
         }
 
-        private void CreateAnimations()
+        protected override void CreateAnimations()
         {
             // Run Down
             List<Image> downImages = new List<Image>();
@@ -88,82 +64,12 @@ namespace MyGame
             currentAnimation = runDown;
         }
 
-        public delegate void CollisionEventHandler(object sender, EventArgs e);
-        public event CollisionEventHandler OnCollision;
-
-        public void Update()
+        protected override void UpdateMovement(ref bool isMoving)
         {
-            bool isMoving = false;
-
-            if (Engine.GetKey(Engine.KEY_UP))
-            {
-                currentAnimation = runUp; lastDirection = "Up"; isMoving = true;
-            }
-            else if (Engine.GetKey(Engine.KEY_DOWN))
-            {
-                currentAnimation = runDown; lastDirection = "Down"; isMoving = true;
-            }
-            else if (Engine.GetKey(Engine.KEY_LEFT))
-            {
-                currentAnimation = runLeft; lastDirection = "Left"; isMoving = true;
-            }
-            else if (Engine.GetKey(Engine.KEY_RIGHT))
-            {
-                currentAnimation = runRight; lastDirection = "Right"; isMoving = true;
-            }
-
-            if (!isMoving)
-            {
-                switch (lastDirection)
-                {
-                    case "Up": currentAnimation = idleUp; break;
-                    case "Down": currentAnimation = idleDown; break;
-                    case "Left": currentAnimation = idleLeft; break;
-                    case "Right": currentAnimation = idleRight; break;
-                }
-            }
-
-            player2Controller.Update();
-            currentAnimation.Update();
-            CheckCollisions();
-        }
-
-        private void CheckCollisions()
-        {
-            for (int i = 0; i < GameManager.Instance.LevelController.EnemyList.Count; i++)
-            {
-                BaseEnemy enemy = GameManager.Instance.LevelController.EnemyList[i];
-                float dx = Math.Abs((enemy.Transform.Position.x + enemy.Transform.Scale.x / 2)
-                                  - (transform.Position.x + transform.Scale.x / 2));
-                float dy = Math.Abs((enemy.Transform.Position.y + enemy.Transform.Scale.y / 2)
-                                  - (transform.Position.y + transform.Scale.y / 2));
-
-                float halfW = enemy.Transform.Scale.x / 2 + transform.Scale.x / 2;
-                float halfH = enemy.Transform.Scale.y / 2 + transform.Scale.y / 2;
-
-                if (dx < halfW && dy < halfH)
-                {
-                    LoseLife();
-                    break;
-                }
-            }
-        }
-
-        public void Render()
-        {
-            renderer.SetTexture(currentAnimation.CurrentImage);
-            renderer.Draw();
-        }
-
-        // ILife implementation
-        public void LoseLife()
-        {
-            if (lives <= 0) return;
-            lives--;
-            if (lives == 0)
-                OnDeath?.Invoke(this, EventArgs.Empty);
-            else
-                transform.Position = startPosition;  // respawn
+            if (Engine.GetKey(Engine.KEY_UP)) { currentAnimation = runUp; lastDirection = "Up"; isMoving = true; }
+            if (Engine.GetKey(Engine.KEY_LEFT)) { currentAnimation = runLeft; lastDirection = "Left"; isMoving = true; }
+            if (Engine.GetKey(Engine.KEY_DOWN)) { currentAnimation = runDown; lastDirection = "Down"; isMoving = true; }
+            if (Engine.GetKey(Engine.KEY_RIGHT)) { currentAnimation = runRight; lastDirection = "Right"; isMoving = true; }
         }
     }
 }

@@ -47,6 +47,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BasePlayer.cs" />
+    <Compile Include="BasePlayerController.cs" />
     <Compile Include="GenericPool.cs" />
     <Compile Include="ILife.cs" />
     <Compile Include="IPoolable.cs" />
@@ -85,7 +87,10 @@
     </None>
     <None Include="assets\Font\CODE_Light.otf" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="assets\Audio\" />
+    <Folder Include="assets\Death\" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="assets\pause.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
