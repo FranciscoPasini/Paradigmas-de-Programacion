@@ -21,7 +21,7 @@ namespace MyGame
         private List<LifePowerUp> activePowerUps = new List<LifePowerUp>();
         private GenericPool<LifePowerUp> powerUpPool;
         private float powerUpTimer = 0f;
-        private const float POWERUP_SPAWN_INTERVAL = 10f; // 10 segundos
+        private const float POWERUP_SPAWN_INTERVAL = 10f;
 
         private Dictionary<int, bool> laneOccupied = new Dictionary<int, bool>
         {
@@ -59,25 +59,21 @@ namespace MyGame
 
         public void Update()
         {
-            // Actualizar jugadores
             if (p1Active) player1.Update();
             if (p2Active) player2.Update();
 
-            // Actualizar enemigos
             foreach (BaseEnemy e in enemyList)
             {
                 e.Update();
             }
 
-            // Generación de enemigos
             spawnTimer += Time.DeltaTime;
-            if (spawnTimer >= 1.0f) // 1 segundo
+            if (spawnTimer >= 1.0f) 
             {
                 SpawnRandomEnemy();
                 spawnTimer = 1f;
             }
 
-            // Eliminar enemigos fuera de pantalla
             for (int i = enemyList.Count - 1; i >= 0; i--)
             {
                 if (enemyList[i].IsOffScreen())
@@ -88,7 +84,6 @@ namespace MyGame
                 }
             }
 
-            // Sistema de power-ups
             powerUpTimer += Time.DeltaTime;
 
             if (powerUpTimer >= POWERUP_SPAWN_INTERVAL && activePowerUps.Count == 0)
@@ -97,7 +92,6 @@ namespace MyGame
                 powerUpTimer = 0f;
             }
 
-            // Actualizar power-ups
             for (int i = activePowerUps.Count - 1; i >= 0; i--)
             {
                 activePowerUps[i].Update();
@@ -106,7 +100,7 @@ namespace MyGame
 
         public void OnPowerUpCollected()
         {
-            powerUpTimer = 0f; // Reinicia el temporizador al recolectar
+            powerUpTimer = 0f;
         }
 
         private void SpawnPowerUp()

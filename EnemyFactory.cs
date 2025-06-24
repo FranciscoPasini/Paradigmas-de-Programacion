@@ -20,7 +20,6 @@ namespace MyGame
 
         private static void InitializePools()
         {
-            // Inicializar un pool para cada tipo de enemigo
             _pools.Add(typeof(PoliceEnemy), CreatePool<PoliceEnemy>(5));
             _pools.Add(typeof(RedCarEnemy), CreatePool<RedCarEnemy>(8));
             _pools.Add(typeof(WhiteCarEnemy), CreatePool<WhiteCarEnemy>(8));
@@ -66,7 +65,7 @@ namespace MyGame
                 case 2: return typeof(WhiteCarEnemy);
                 case 3: return typeof(TaxiEnemy);
                 case 4: return typeof(MotoEnemy);
-                default: return typeof(PoliceEnemy); // Default: PoliceEnemy
+                default: return typeof(PoliceEnemy);
             }
         }
 
@@ -104,12 +103,12 @@ namespace MyGame
         {
             switch (type)
             {
-                case 0: return 4; // Police
-                case 1: return 3; // RedCar
-                case 2: return 2; // WhiteCar
-                case 3: return 2; // Taxi
-                case 4: return 3; // Moto
-                default: return 2; // Default
+                case 0: return 4; 
+                case 1: return 3; 
+                case 2: return 2; 
+                case 3: return 2; 
+                case 4: return 3; 
+                default: return 2; 
             }
         }
 

@@ -9,7 +9,7 @@ namespace MyGame
     public class Player2Controller : BasePlayerController
     {
         public Player2Controller(Transform transform)
-            : base(transform, 2) { } // PlayerId fijo = 2
+            : base(transform, 2) { }
 
         protected override int GetKeyUp() => Engine.KEY_UP;
         protected override int GetKeyDown() => Engine.KEY_DOWN;

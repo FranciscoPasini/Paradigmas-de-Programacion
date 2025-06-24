@@ -18,7 +18,6 @@ namespace MyGame
 
         protected BaseEnemy()
         {
-            // Constructor vacío para el pool
         }
 
         public virtual void Initialize(float posX, float posY, int speed, int dirY, Image image, int laneIndex)

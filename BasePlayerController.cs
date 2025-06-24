@@ -10,7 +10,7 @@ namespace MyGame
     {
         protected Transform transform;
         protected int speed = 1;
-        protected int playerId; // Para identificar al jugador (1 o 2)
+        protected int playerId;
 
         public BasePlayerController(Transform transform, int playerId)
         {
@@ -18,7 +18,6 @@ namespace MyGame
             this.playerId = playerId;
         }
 
-        // Método abstracto para definir teclas en clases hijas
         protected abstract int GetKeyUp();
         protected abstract int GetKeyDown();
         protected abstract int GetKeyLeft();
@@ -32,7 +31,6 @@ namespace MyGame
             MoveRight();
         }
 
-        // --- Métodos de movimiento (comparten lógica pero usan teclas diferentes) ---
         protected void MoveUp()
         {
             if (Engine.GetKey(GetKeyUp()))
@@ -69,7 +67,6 @@ namespace MyGame
             }
         }
 
-        // --- Lógica común para límites de pantalla ---
         private void ClampToScreenTop()
         {
             if (transform.Position.y <= 0)
@@ -93,7 +90,7 @@ namespace MyGame
             if (transform.Position.x >= 640)
             {
                 transform.Position = new Vector2(80, transform.Position.y);
-                GameManager.Instance.AddPoint(playerId); // Asigna puntos según el ID
+                GameManager.Instance.AddPoint(playerId);
             }
         }
     }

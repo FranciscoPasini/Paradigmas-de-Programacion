@@ -16,7 +16,7 @@ namespace MyGame
     public class GameManager
     {
         private static GameManager instance;
-        private gameStatus gameStage = gameStatus.menu;    // 0-Menu     1-Game     2-Pause     3-Win    4-Lose
+        private gameStatus gameStage = gameStatus.menu;
 
         private Image mainMenu = Engine.LoadImage("assets/MainMenu.png");
         private Image loseScreen = Engine.LoadImage("assets/Lose.png");
@@ -129,7 +129,6 @@ namespace MyGame
 
                 case gameStatus.pause:
                     levelController.Render();
-                    //Engine.Clear();
                     Engine.Draw(pause, 370, 150);
                     Engine.DrawText("PAUSA", 310, 250, 255, 255, 255, defaultFont);
                     Engine.Show();

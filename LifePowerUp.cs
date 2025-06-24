@@ -56,7 +56,7 @@ namespace MyGame
             if (player1 != null && CheckCollisionWith(player1))
             {
                 player1.AddLife();
-                GameManager.Instance.LevelController.OnPowerUpCollected(); // Notifica recolección
+                GameManager.Instance.LevelController.OnPowerUpCollected();
                 Deactivate();
                 return;
             }
@@ -64,7 +64,7 @@ namespace MyGame
             if (player2 != null && CheckCollisionWith(player2))
             {
                 player2.AddLife();
-                GameManager.Instance.LevelController.OnPowerUpCollected(); // Notifica recolección
+                GameManager.Instance.LevelController.OnPowerUpCollected();
                 Deactivate();
             }
         }

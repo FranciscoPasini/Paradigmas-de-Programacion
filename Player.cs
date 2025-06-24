@@ -11,14 +11,13 @@ namespace MyGame
     {
         public Player(float positionX, float positionY) : base(positionX, positionY)
         {
-            playerController = new PlayerController(transform, 1); // Control específico
+            playerController = new PlayerController(transform, 1);
             CreateAnimations();
             renderer.SetTexture(idleDown.CurrentImage);
         }
 
         protected override void CreateAnimations()
         {
-            // Run Down
             List<Image> downImages = new List<Image>();
             for (int i = 0; i < 3; i++)
             {
@@ -27,7 +26,6 @@ namespace MyGame
             }
             runDown = new Animation("RunDown", 0.1f, downImages, true);
 
-            // Run Up
             List<Image> upImages = new List<Image>();
             for (int i = 0; i < 3; i++)
             {
@@ -36,7 +34,6 @@ namespace MyGame
             }
             runUp = new Animation("RunUp", 0.1f, upImages, true);
 
-            // Run Left
             List<Image> leftImages = new List<Image>();
             for (int i = 0; i < 3; i++)
             {
@@ -45,7 +42,6 @@ namespace MyGame
             }
             runLeft = new Animation("RunLeft", 0.1f, leftImages, true);
 
-            // Run Right
             List<Image> rightImages = new List<Image>();
             for (int i = 0; i < 3; i++)
             {
@@ -54,13 +50,11 @@ namespace MyGame
             }
             runRight = new Animation("RunRight", 0.1f, rightImages, true);
 
-            // Idle
             idleDown = new Animation("IdleDown", 0.1f, new List<Image> { Engine.LoadImage("assets/Player/Idle/Down/0.png") }, true);
             idleUp = new Animation("IdleUp", 0.1f, new List<Image> { Engine.LoadImage("assets/Player/Idle/Up/0.png") }, true);
             idleLeft = new Animation("IdleLeft", 0.1f, new List<Image> { Engine.LoadImage("assets/Player/Idle/Left/0.png") }, true);
             idleRight = new Animation("IdleRight", 0.1f, new List<Image> { Engine.LoadImage("assets/Player/Idle/Right/0.png") }, true);
 
-            // Valor por defecto
             currentAnimation = runDown;
         }
         protected override void UpdateMovement(ref bool isMoving)
