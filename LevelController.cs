@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Media;
 using System.Text;
 using System.Threading.Tasks;
-
 
 namespace MyGame
 {
@@ -18,6 +18,11 @@ namespace MyGame
         private readonly Vector2 p1StartPos = new Vector2(50, 200);
         private readonly Vector2 p2StartPos = new Vector2(50, 300);
 
+        private List<LifePowerUp> activePowerUps = new List<LifePowerUp>();
+        private GenericPool<LifePowerUp> powerUpPool;
+        private float powerUpTimer = 0f;
+        private const float POWERUP_SPAWN_INTERVAL = 10f; // 10 segundos
+
         private Dictionary<int, bool> laneOccupied = new Dictionary<int, bool>
         {
             { 0, false },
@@ -27,9 +32,12 @@ namespace MyGame
         };
 
         private Random random = new Random();
-        private int spawnTimer = 0;
-        public List<BaseEnemy> EnemyList => enemyList;
+        private float spawnTimer = 0f;
         private Font scoreFont;
+
+        public Player Player1 => player1;
+        public Player2 Player2 => player2;
+        public List<BaseEnemy> EnemyList => enemyList;
 
         public void InitializeLevel()
         {
@@ -40,6 +48,7 @@ namespace MyGame
             player2.OnDeath += (s, e) => { p2Active = false; CheckBothDead(); };
 
             scoreFont = Engine.LoadFont("assets/Font/8bitOperatorPlus-Regular.ttf", 20);
+            powerUpPool = new GenericPool<LifePowerUp>(() => new LifePowerUp(), p => p.Reset(), 3);
         }
 
         private void CheckBothDead()
@@ -48,30 +57,27 @@ namespace MyGame
                 GameManager.Instance.ChangeGameStatus(gameStatus.lose);
         }
 
-        private void Player_OnCollision(object sender, EventArgs e)
-        {
-            GameManager.Instance.ChangeGameStatus(gameStatus.lose);
-        }
-
         public void Update()
         {
-            // 1) Update jugadores
+            // Actualizar jugadores
             if (p1Active) player1.Update();
             if (p2Active) player2.Update();
 
+            // Actualizar enemigos
             foreach (BaseEnemy e in enemyList)
             {
                 e.Update();
             }
 
-            spawnTimer++;
-
-            if (spawnTimer >= 70)
+            // Generación de enemigos
+            spawnTimer += Time.DeltaTime;
+            if (spawnTimer >= 1.0f) // 1 segundo
             {
                 SpawnRandomEnemy();
-                spawnTimer = 0;
+                spawnTimer = 0f;
             }
 
+            // Eliminar enemigos fuera de pantalla
             for (int i = enemyList.Count - 1; i >= 0; i--)
             {
                 if (enemyList[i].IsOffScreen())
@@ -81,6 +87,33 @@ namespace MyGame
                     enemyList.RemoveAt(i);
                 }
             }
+
+            // Sistema de power-ups
+            powerUpTimer += Time.DeltaTime;
+
+            if (powerUpTimer >= POWERUP_SPAWN_INTERVAL && activePowerUps.Count == 0)
+            {
+                SpawnPowerUp();
+                powerUpTimer = 0f;
+            }
+
+            // Actualizar power-ups
+            for (int i = activePowerUps.Count - 1; i >= 0; i--)
+            {
+                activePowerUps[i].Update();
+            }
+        }
+
+        public void OnPowerUpCollected()
+        {
+            powerUpTimer = 0f; // Reinicia el temporizador al recolectar
+        }
+
+        private void SpawnPowerUp()
+        {
+            var powerUp = powerUpPool.Get();
+            powerUp.Activate();
+            activePowerUps.Add(powerUp);
         }
 
         private void SpawnRandomEnemy()
@@ -111,18 +144,31 @@ namespace MyGame
             laneOccupied[laneIndex] = true;
         }
 
+        public void ReturnLifePowerUp(LifePowerUp powerUp)
+        {
+            activePowerUps.Remove(powerUp);
+            powerUpPool.Return(powerUp);
+        }
+
         public void Render()
         {
             Engine.Clear();
             Engine.Draw(fondo, 0, 0);
+
             if (p1Active) player1.Render();
             if (p2Active) player2.Render();
+
+            foreach (var powerUp in activePowerUps)
+            {
+                powerUp.Render();
+            }
 
             foreach (BaseEnemy e in enemyList)
             {
                 e.Render();
             }
 
+            // UI
             Engine.DrawText($"Player 1 score: {GameManager.Instance.GetScore(1)}", 20, 40, 255, 255, 255, scoreFont);
             Engine.DrawText($"Player 2 score: {GameManager.Instance.GetScore(2)}", 20, 60, 255, 255, 0, scoreFont);
             Engine.DrawText($"Player 1 lives: {(p1Active ? player1.Lives.ToString() : "0")}", 665, 580, 255, 255, 255, scoreFont);

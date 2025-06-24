@@ -63,7 +63,14 @@ namespace MyGame
             // Valor por defecto
             currentAnimation = runDown;
         }
+        protected override void UpdateMovement(ref bool isMoving)
+        {
+            if (Engine.GetKey(Engine.KEY_W)) { currentAnimation = runUp; lastDirection = "Up"; isMoving = true; }
+            if (Engine.GetKey(Engine.KEY_A)) { currentAnimation = runLeft; lastDirection = "Left"; isMoving = true; }
+            if (Engine.GetKey(Engine.KEY_S)) { currentAnimation = runDown; lastDirection = "Down"; isMoving = true; }
+            if (Engine.GetKey(Engine.KEY_D)) { currentAnimation = runRight; lastDirection = "Right"; isMoving = true; }
+        }
 
-        
+
     }
 }

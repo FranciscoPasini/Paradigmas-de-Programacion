@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
+using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -24,13 +25,14 @@ namespace MyGame
         private LevelController levelController;
 
         private Font defaultFont;
+        private SoundPlayer musicPlayer;
         public LevelController LevelController => levelController;
 
         public void ResetGame()
         {
             player1Score = 0;
             player2Score = 0;
-            levelController = new LevelController(); // Reinicia el nivel
+            levelController = new LevelController();
             levelController.InitializeLevel();
             ChangeGameStatus(gameStatus.game);
         }
@@ -52,6 +54,8 @@ namespace MyGame
             levelController = new LevelController();
             levelController.InitializeLevel();
             defaultFont = Engine.LoadFont("assets/Font/8bitOperatorPlus-Regular.ttf", 72);
+            musicPlayer = new SoundPlayer("assets/Audio/background.wav");
+            musicPlayer.PlayLooping();
 
         }
 
@@ -66,10 +70,13 @@ namespace MyGame
                 if (gameStage == gameStatus.game)
                 {
                     gameStage = gameStatus.pause;
+                    musicPlayer.Stop();
+                    
                 }
                 else if (gameStage == gameStatus.pause)
                 {
                     gameStage = gameStatus.game;
+                    musicPlayer.PlayLooping();
                 }
             }
 

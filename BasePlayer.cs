@@ -25,6 +25,9 @@ namespace MyGame
         public int Lives => lives;
         public event EventHandler OnDeath;
 
+        public Transform Transform => transform;
+        public bool IsActive { get; protected set; } = true;
+
         // Constructor base
         public BasePlayer(float positionX, float positionY)
         {
@@ -102,5 +105,10 @@ namespace MyGame
             else
                 transform.Position = startPosition; // Respawn
         }
+        public void AddLife()
+        {
+            lives++;
+        }
+
     }
 }
