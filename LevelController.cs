@@ -32,7 +32,7 @@ namespace MyGame
         };
 
         private Random random = new Random();
-        private float spawnTimer = 0f;
+        private float spawnTimer = 1f;
         private Font scoreFont;
 
         public Player Player1 => player1;
@@ -74,7 +74,7 @@ namespace MyGame
             if (spawnTimer >= 1.0f) // 1 segundo
             {
                 SpawnRandomEnemy();
-                spawnTimer = 0f;
+                spawnTimer = 1f;
             }
 
             // Eliminar enemigos fuera de pantalla
