@@ -56,7 +56,6 @@
     <Compile Include="Render.cs" />
     <Compile Include="Animation.cs" />
     <Compile Include="BaseEnemy.cs" />
-    <Compile Include="Enemy.cs" />
     <Compile Include="EnemyFactory.cs" />
     <Compile Include="EnemyMovement.cs" />
     <Compile Include="Engine\Font.cs" />
